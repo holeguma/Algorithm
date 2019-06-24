@@ -1,9 +1,11 @@
-Name
-====
 Algorithm
+====
 
 ## Description
-よく/たまに使うデータ構造、ライブラリのまとめ(言語はJava)
+よく/たまに使うデータ構造、ライブラリのまとめ
+
+## Dependency
+Java8
 
 ## Usage
 VSCodeのUser Snippetsとして利用できる
