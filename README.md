@@ -1,6 +1,6 @@
 Name
 ====
-algorithm
+Algorithm
 
 ## Description
 よく/たまに使うデータ構造、ライブラリのまとめ
