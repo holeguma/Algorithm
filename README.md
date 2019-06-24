@@ -4,15 +4,14 @@ Algorithm
 ## Description
 よく/たまに使うデータ構造、ライブラリのまとめ
 
-<Data Structure>
+#Data Structure
 ・DisjointSparseTable
 ・UnionFindTree
 ・BinaryIndexedTree(FenwickTree)
 ・SegmentTree
 ・PersistentUnionFindTree
-・
 
-<Other>
+#Other
 ・ModInt
 ・SieveOfEratosthenes
 ・Dikstra
