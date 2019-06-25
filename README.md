@@ -16,7 +16,7 @@ Algorithm
 * SieveOfEratosthenes
 * Dikstra
 * lower_bound/upper_bound
-* TpologicalSort
+* TopologicalSort
 * compress
 * next_permutation
 * Manacher
