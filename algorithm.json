@@ -94,7 +94,7 @@
 			"}",
 			""
 		],
-		"description": "剰余演算を行う add,sub,mul,div(加減乗除):O(1) fact(階乗):O(n) factInv(階乗の逆元):O(nlog p) comb(組み合わせ):O(1)(前計算O(nlog p)) mod_inverse(逆元):O(log p)　modpow(累乗の剰余):O(log p) stirling(スターリング数):O(n^2)"
+		"description": "剰余演算を行う add,sub,mul,div(加減乗除):O(1) fact(階乗):O(n) factInv(階乗の逆元):O(nlogp) comb(組み合わせ):O(1)(前計算O(nlogp)) mod_inverse(逆元):O(logp)　modpow(累乗の剰余):O(logp) stirling(スターリング数):O(n^2)"
 	},
 	"Dijkstra": {
 		"prefix": "dijkstra",
