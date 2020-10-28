@@ -7,7 +7,7 @@ algorithm
 
   
 ## Dependency
-Java8
+Java
 
 ## Author
 [holeguma](https://github.com/holeguma)
