@@ -1,0 +1,3 @@
+[languages.java]
+verfication_file_suffix = "_test.java"
+bundle = "false"
